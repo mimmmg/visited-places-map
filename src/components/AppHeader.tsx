@@ -35,7 +35,7 @@ export function AppHeader({
       <div className="mx-auto flex max-w-5xl flex-wrap items-center gap-3 px-4 py-3">
         <h1 className="flex items-center gap-2 text-base font-semibold">
           <MapPin className="h-5 w-5 shrink-0" aria-hidden />
-          우리 동네 카페 지도
+          내 방문 지도
         </h1>
 
         <div className="ml-auto flex items-center gap-2">
